@@ -51,7 +51,7 @@ echo PHP_EOL;
 
 // -----------------------------------
 
-// use statatic variable -
+// use static variable -
 
 function fibonacci_serial($old, $new, $end){
     static $start;
