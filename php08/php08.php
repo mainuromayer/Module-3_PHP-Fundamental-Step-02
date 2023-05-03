@@ -1,6 +1,6 @@
 <?php
-// Factorial check -
 
+// Factorial check -
 include_once "function.php";
 
 $x = "5";

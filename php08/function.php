@@ -2,12 +2,10 @@
 
 // Factorial Number and intiger value check -
 /* 
+  # How to calculate factorial?
 
-How to calculate factorial?
-
-একটি positive integer (number) এর ফ্যাক্টরিয়াল হল সেই positive integer এর থেকে ছোট সমস্ত integer এর গুণের সমষ্টি। Example -
-5 এর Factorial হল 5 * 4 * 3 * 2 * 1 যা 120 এর সমান।
-
+    একটি positive integer (number) এর ফ্যাক্টরিয়াল হল সেই positive integer এর থেকে ছোট সমস্ত integer এর গুণের সমষ্টি। Example -
+    5 এর Factorial হল 5 * 4 * 3 * 2 * 1 যা 120 এর সমান।
 */
 // -----------------------------------
 
